@@ -1,5 +1,6 @@
 # ₿ Portify Website UI
 
+- Built with React,js and Tailwind.css
 - 3 pages
 - Tracks state of cryptocurrencies
 - Desktop friendly
