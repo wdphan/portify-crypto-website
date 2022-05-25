@@ -1,4 +1,4 @@
-# ₿ Portify Website UI
+# Portify Website
 
 ![GitHub Project READMEs (1)](https://user-images.githubusercontent.com/95723185/169666556-e62634ae-f9d8-41bc-9dc0-61d960be1a8f.png)
 
